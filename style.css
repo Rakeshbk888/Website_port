@@ -7,7 +7,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: url(../WebPort/images/Hrx_img1.jpg);
+    background-image: url(https://res.cloudinary.com/dqmfivtqn/image/upload/v1657465894/webport/formal_vodrjl.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -21,14 +21,6 @@ nav{
     justify-content: space-between;
     align-items: center;
     text-transform: uppercase;
-    /*
-    position: absolute;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 45px;
-    padding-left: 8%;
-    padding-right: 8%;*/
 }
 
 .logo{
@@ -339,7 +331,7 @@ footer p:nth-child(2){
     background: #f9004d;
     border-radius: 50px;
     margin: 22px 10px;
-    color: wh;
+    color: white;
     text-decoration: none;
     font-size: 20px;
 }
